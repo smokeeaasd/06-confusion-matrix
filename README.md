@@ -1,4 +1,4 @@
-# machine_learn_0408
+# Matriz de Confusão
 
 Projeto voltado para a **avaliação de modelos de classificação**, com foco na **Matriz de Confusão** e nas métricas de desempenho derivadas dela, aplicadas ao problema de sobrevivência do Titanic.
 
